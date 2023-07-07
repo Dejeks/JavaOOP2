@@ -1,1 +1,1 @@
-Author: Danil Neklyuodov
+Author: Danil Neklyudov
